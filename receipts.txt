@@ -1,0 +1,15 @@
+Date: 08-21-23  Time: 19:07:58
+Order No. : 1
+
+ITEM               QUANTITY                AMOUNT            TOTAL
+================================================================================ 
+TAPSILOG            1                      PHP 120           PHP 120
+BACSILOG            4                      PHP 115           PHP 460
+SPRITE              5                      PHP 25            PHP 125
+================================================================================ 
+
+
+Cost of Meal : PHP 705.00
+Discount: PHP -0.00
+Tax : PHP 84.60
+Total : PHP 789.6
